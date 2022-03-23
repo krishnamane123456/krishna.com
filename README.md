@@ -1,11 +1,11 @@
-
+<!DOCTYPE html>
 <html>
 
 <head> 
 <title> SHASHANK CLASSES</title>
   </head>
     <body>
-      
+      <!DOCTYPE html>
 <html>
 
 <head> 
