@@ -1,9 +1,8 @@
-# krishna.com
-<!DOCTYPE html>
+#<!DOCTYPE html>
 <html>
 
 <head> 
-<title> the website</title>
+<title> SHASHANK CLASSES</title>
   </head>
     <body>
       <!DOCTYPE html>
@@ -13,16 +12,24 @@
 <title> the test website</title>
     </head>
     <body>
-        <h1 align="CENTER">SAHIL</h1>
-        <hr>
-        ABOUT SAHIL<br>
-        UMAR: 19 SAAL <br>
-        PASSION: CHUTIYA GIRI KRANA<br>
-        KRTA KY HAI? : GANDU HAI KUCH NAI KRTA<br>
-        GIRLFRIEND?: NAI HAI<br>
-        SPECAIL TAG : #AUNTYLOVERTHANEKA<br>
-        INSTAGRAM ACC: <a href="https://instagram.com/_imsahil_693?utm_medium=copy_link" target="_BLANK"><button>SAHIL</button></a>
-        
+        <h1 align="CENTER">SHASHANK CLASSES</h1>
+        <br><hr>
+        <img width="25%" src="SHANK.JPG"> 
+        <br><hr>
+        <h1 align="CENTER">CONTACTS</h1><br>
+        SHASHANK SIR=<br>
+        SHUBHANGI MAM=<br>
+        SHREYAS BOITHE=<br>
+        <br><hr>
+        <h1 align="MIDDLE">YOUTUBE VIDEOS</h1>
+        <h1 align="CENTER"><a href="https://www.youtube.com/" target="_BLANK"> <button>VIDEOS</button></a></h1><br><hr>
+        <h1 align="CENTER">THANK YOU</h1>
+
+
+
+
+
+
 
 
     </body>
