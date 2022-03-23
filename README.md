@@ -13,7 +13,7 @@
 <title> the test website</title>
     </head>
     <body>
-        <h1 align="CENTER">SHASHANK CLASSES</h1>
+        <h1 align="CENTER">SNEHA WEDI AHE</h1>
         <hr>
          <table>
               <th width="50%"><img src="download (1).jpg"</img></th>
