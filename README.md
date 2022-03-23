@@ -1,11 +1,11 @@
-<!DOCTYPE html>
+
 <html>
 
 <head> 
 <title> SHASHANK CLASSES</title>
   </head>
     <body>
-      <!DOCTYPE html>
+      
 <html>
 
 <head> 
@@ -14,7 +14,7 @@
     <body>
         <h1 align="CENTER">SHASHANK CLASSES</h1>
         <br><hr>
-        <img width="25%" src="SHANK.JPG"> 
+      <img width="25%" src="SHANK.JPG"></img>
         <br><hr>
         <h1 align="CENTER">CONTACTS</h1><br>
         SHASHANK SIR=<br>
