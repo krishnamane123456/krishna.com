@@ -14,7 +14,7 @@
     <body>
         <h1 align="CENTER">SHASHANK CLASSES</h1>
         <br><hr>
-      <img width="25%" src="SHANK.JPG"></img>
+        <img src="SHANK.JPG">
         <br><hr>
         <h1 align="CENTER">CONTACTS</h1><br>
         SHASHANK SIR=<br>
