@@ -16,7 +16,9 @@
         <h1 align="CENTER">SHASHANK CLASSES</h1>
         <hr>
          <table>
-              
+              <th width="2%"><img src="SHANK.jpg"/img></th>
+              <th width="2%"><h1>LUFFY</h1></th>
+              <th>MONKEY</th>
 
 
 
