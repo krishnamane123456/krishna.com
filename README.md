@@ -1,12 +1,12 @@
 # krishna.com
-<!DOCTYPE html>
+
 <html>
 
 <head> 
 <title> the website</title>
   </head>
     <body>
-      <!DOCTYPE html>
+      
 <html>
 
 <head> 
