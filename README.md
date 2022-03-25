@@ -1,5 +1,4 @@
 # krishna.com
-
 <html>
 
 <head> 
@@ -21,7 +20,10 @@
         KRTA KY HAI? : GANDU HAI KUCH NAI KRTA<br>
         GIRLFRIEND?: NAI HAI<br>
         SPECAIL TAG : #AUNTYLOVERTHANEKA<br>
-        INSTAGRAM ACC: <a href="https://instagram.com/_imsahil_693?utm_medium=copy_link" target="_BLANK"><button>SAHIL</button></a>
+        INSTAGRAM ACC: <a href="https://instagram.com/_imsahil_693?utm_medium=copy_link" target="_BLANK"><button>SAHIL</button></a><br><hr>
+        <h1 align="CENTER">GAYATRI</h1><br>
+        INSTAGRAM ID: <a href="https://www.instagram.com/__gayatripatil__/" target="_BLANK"><button>INSTAGRAM</button></a>
+
         
 
 
